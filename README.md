@@ -189,3 +189,10 @@ order by Total_Orders ASC
     (a) Bar charts highlighting top 5 best and worst sellers based on revenue, total quantity, and total orders.
 
     (b) KPI cards for quick performance insights.
+
+# Tools Used
+- SQL: For data extraction and transformation.
+
+- Power BI: For data visualization and dashboard creation.
+
+- DAX: For creating custom measures and KPIs.
