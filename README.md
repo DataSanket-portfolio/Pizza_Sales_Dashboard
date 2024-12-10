@@ -1,7 +1,6 @@
 
 # Pizza-Sales-Dashboard
 
-### Dashboard Link : 
 ## Problem Statement
 
 This dashboard helps a pizza company gain insights into its sales performance and customer preferences. By visualizing data such as sales trends, customer demographics, and product popularity, the company can identify areas for operational and marketing improvements. The analysis provides actionable recommendations to enhance customer satisfaction and increase revenue.
