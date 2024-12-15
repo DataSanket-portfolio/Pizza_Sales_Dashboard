@@ -1,5 +1,5 @@
 
-# Pizza-Sales-Dashboard
+# Sales-Dashboard
 
 ## Problem Statement
 
